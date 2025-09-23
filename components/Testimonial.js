@@ -81,7 +81,7 @@ export default class Testimonial extends Component {
                       />
                     </div> */}
 										<div className='text'>
-											Worked with Hamza, his work is top-notch and he's committed to getting things done. A pleasure to
+											Worked with Jawad, his work is top-notch and he's committed to getting things done. A pleasure to
 											work with and will collaborate again.
 										</div>
 										<div className='testi-des'>

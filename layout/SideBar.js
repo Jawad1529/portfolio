@@ -57,13 +57,13 @@ const SideBar = () => {
           </div>
           {/*Social Icons*/}
           <div className="social-style-one">
-            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/hamzaashfaq01">
+            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/Jawadashfaq01">
               <i className="fab fa-linkedin" />
             </a>
-            <a href="https://www.instagram.com/_.hamza._9t">
+            <a href="https://www.instagram.com/_.Jawad._9t">
               <i className="fab fa-instagram" />
             </a>
-            <a href="https://github.com/HamzaAshfaq01">
+            <a href="https://github.com/JawadAshfaq01">
               <i className="fab fa-github" />
             </a>
           </div>

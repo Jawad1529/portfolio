@@ -106,7 +106,7 @@ const Footer1 = () => {
 								<p>
 									Copyright @{date},{' '}
 									<Link legacyBehavior href='/'>
-										Hamza
+										Jawad
 									</Link>{' '}
 									All Rights Reserved
 								</p>

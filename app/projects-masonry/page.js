@@ -3,6 +3,7 @@ import NoxfolioLayout from "@/layout/PortfolioLayout";
 import Link from "next/link";
 
 import dynamic from "next/dynamic";
+import React from "react";
 const ProjectMasonryIsotop = dynamic(
   () => import("@/components/ProjectMasonryIsotop"),
   {
@@ -23,7 +24,7 @@ const ProjectMasonry = () => {
           <ProjectMasonryIsotop />
           <div className="project-btn mt-25 text-center wow fadeInUp delay-0-2s">
             <Link legacyBehavior href="/projects">
-        
+            Projects
             </Link>
           </div>
         </div>

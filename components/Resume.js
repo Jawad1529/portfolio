@@ -1,0 +1,108 @@
+import Link from 'next/link'
+
+const Resume = () => {
+	return (
+		<section id='resume' className='resume-area pt-130 rpt-100 rel z-1'>
+			<div className='container'>
+				<div className='row'>
+					<div className='col-lg-3'>
+						<div className='big-icon mt-85 rmt-0 rmb-55 wow fadeInUp delay-0-2s'>
+							<i className='flaticon-asterisk-1' />
+						</div>
+					</div>
+					<div className='col-lg-9'>
+						<div className='row'>
+							<div className='col-xl-8 col-lg-9'>
+								<div className='section-title mb-60 wow fadeInUp delay-0-2s'>
+									<span className='sub-title mb-15'>My Resume</span>
+									<h2>
+										Real <span>Problem Solutions</span> Experience
+									</h2>
+								</div>
+							</div>
+						</div>
+						
+						{/* Experience Section */}
+						<div className='resume-items-wrap mb-70'>
+							<div className='row justify-content-between'>
+								<div className='col-xl-5 col-md-6'>
+									<div className='resume-item wow fadeInUp delay-0-3s'>
+										<div className='icon'>
+											<i className='far fa-arrow-right' />
+										</div>
+										<div className='content'>
+											<span className='years'>Jan 2025 - Present</span>
+											<h4>MERN Stack Developer</h4>
+											<span className='company'>IDENBRID INC.</span>
+										</div>
+									</div>
+								</div>
+
+								<div className='col-xl-5 col-md-6'>
+									<div className='resume-item wow fadeInUp delay-0-2s'>
+										<div className='icon'>
+											<i className='far fa-arrow-right' />
+										</div>
+										<div className='content'>
+											<span className='years'>Sep 2023 - Jan 2025</span>
+											<h4>Web Developer</h4>
+											<span className='company'>BITFICIAL TECHNOLOGIES</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						{/* Education Section */}
+                          <div className='row'>
+  <div className='col-xl-8 col-lg-9'>
+    <div className='section-title mb-40 wow fadeInUp delay-0-2s'>
+      <span className='sub-title mb-15'>Education</span>
+      <h2>
+        My <span>Academic</span> Journey
+      </h2>
+    </div>
+  </div>
+</div>
+
+<div className='resume-items-wrap-no-divider'>
+  <div className='row'>
+    <div className='col-lg-12'>
+      <div className='resume-item wow fadeInUp delay-0-3s'>
+        <div className='icon'>
+          <i className='far fa-arrow-right' />
+        </div>
+        <div className='content'>
+          <span className='years'>2018 - 2023</span>
+          <h4>Bachelor of Science in Computer Enginnering</h4>
+          <span className='company'>The University of Lahore</span>
+        </div>
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+						{/* End Education */}
+					</div>
+				</div>
+			</div>
+
+			{/* Background lines */}
+			<div className='bg-lines'>
+				<span />
+				<span />
+				<span />
+				<span />
+				<span />
+				<span />
+				<span />
+				<span />
+				<span />
+				<span />
+			</div>
+		</section>
+	)
+}
+export default Resume

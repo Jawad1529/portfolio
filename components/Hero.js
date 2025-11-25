@@ -31,7 +31,7 @@ const Hero = () => {
 								</Link>
 								<Link
 									legacyBehavior
-									href='https://drive.google.com/file/d/1n7ZCwntYC775Rn74yNX67VsxJ0a1Qvjr/view?usp=sharing'>
+									href='https://drive.google.com/file/d/1CmldP983lT2GHcpXeDh5gqwpvYe1d-ck/view?usp=drivesdk'>
 									<a className='read-more'>
 										Download Resume <i className='far fa-angle-right' />
 									</a>

@@ -87,10 +87,10 @@ const Footer1 = () => {
 								<ul>
 									<li>
 										<i className='far fa-envelope' />{' '}
-										<a href='mailto:jawad.dev03@gmail.com'>jawad.dev03@gmail.com</a>
+										<a href='mailto:syedjawadshah00@gmail.com'>syedjawadshah00@gmail.com</a>
 									</li>
 									<li>
-										<i className='far fa-phone' /> <a href='https://wa.me/+923367312010'>+92 306 4041221</a>
+										<i className='far fa-phone' /> <a href='https://wa.me/+923367312010'>+92 336 7312010</a>
 									</li>
 								</ul>
 							</div>

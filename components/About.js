@@ -31,7 +31,7 @@ const About = () => {
 										<div className='content'>
 											<span>Email Us</span>
 											<br />
-											<a href='mailto:jawad.dev03@gmail.com'>jawad.dev03@gmail.com</a>
+											<a href='mailto:syedjawadshah00@gmail.com'>syedjawadshah00@gmail.com</a>
 										</div>
 									</div>
 									<div className='info-box-item'>
@@ -39,7 +39,7 @@ const About = () => {
 										<div className='content'>
 											<span>Make A Call</span>
 											<br />
-											<a href='https://wa.me/+923064041221'>+92 (306) 404 1221</a>
+											<a href='https://wa.me/+923367312010'>+92 (336) 731 2010</a>
 										</div>
 									</div>
 								</div>

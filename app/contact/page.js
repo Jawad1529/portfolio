@@ -35,11 +35,11 @@ const page = () => {
                     </li>
                     <li>
                       <i className="far fa-envelope" />{" "}
-                      <a href="mailto:jawad.dev03@gmail.com">jawad.dev03@gmail.com</a>
+                      <a href="mailto:syedjawadshah00@gmail.com">syedjawadshah00@gmail.com</a>
                     </li>
                     <li>
                       <i className="far fa-phone" />{" "}
-                      <a href="callto:+880(123)45688">+880 (123) 456 88</a>
+                      <a href="callto:+923367312010">+92 (336) 7312010</a>
                     </li>
                   </ul>
                 </div>

@@ -111,6 +111,11 @@ const items = [
 		name: 'socket.io',
 		image: 'assets/images/skills/socket.svg',
 	},
+	{
+		id: 24,
+		name: 'Shopify',
+		image: 'assets/images/skills/shopify.svg',
+	},
 	
 ]
 
